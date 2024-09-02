@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>donacion</title>
 </head>
-<body>
-    <h1donacion</h1>
+<body style="background-color: rebeccapurple; text-align:center; border:4px solid red">
+    <h1>donacion</h1>
     <form action="" method="POST">
         <label for="monto">Monto donacion:</label>
         <input type="number" id="monto" name="monto" step="0.01" min="0" required><br><br>
